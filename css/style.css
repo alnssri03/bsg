@@ -1,4 +1,6 @@
-
+.body{
+    background-color:#f0f0f0;
+}
 .logo {
     display: block;
     padding-top: 40px;
