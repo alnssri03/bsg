@@ -19,7 +19,7 @@
 
 .icons {
     display: inline-block;
-    width: 50px;
+    width: 40px;
 }
 
 .text-icons {
@@ -68,9 +68,8 @@
 }
 .contactBox{
     padding-top: 20px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     width: 100%;
-    border: 1px solid red;
 border-radius: 20px;    
 }
 footer {
@@ -95,3 +94,10 @@ footer {
     font-size: 0.9em;
     text-align: right;
   }
+.darker{
+    background-color:#c7c4c4;
+}
+.cont{
+    margin-left: 15px;
+    background : #fff
+}
